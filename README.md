@@ -1,6 +1,5 @@
 # Audits
 A List of Audits carried out
-[Goalll](https://goal.com)
 ___
 |Protocol    |Platform   | Date | Severity | 
 |:--------:  | :------:  | :-------: | :------: | 
