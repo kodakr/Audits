@@ -3,6 +3,7 @@ A List of Audits carried out
 ___
 |Protocol    |Platform   | Date | Severity | 
 |:--------:  | :------:  | :-------: | :------: | 
+Story | Cantina | Jan 2025| [Info](https://cantina.xyz/code/0561defa-eeb2-4a74-8884-5d7a873afa58/findings/73) |
 Story | Cantina |Jan 2025 | [Low](https://cantina.xyz/code/0561defa-eeb2-4a74-8884-5d7a873afa58/findings/595) | 
 One world | Codehawks |Nov 2024 | [Low](https://codehawks.cyfrin.io/c/2024-11-one-world/s/865) | 
 Folks Finance | Immunefi |August 2024 | [Medium](https://reports.immunefi.com/folks-finance/boost-_-folks-finance-34029-smart-contract-medium-contract-fails-to-mitigate-potential-critical-stat) | 
